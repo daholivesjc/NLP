@@ -1,2 +1,2 @@
-# NLP
-Notebooks sobre NLP
+# nlp
+Notebooks e scripts NLP
